@@ -1,0 +1,14 @@
+.business-card{
+    width:400px;
+    text-align:center;
+    background: #e1ddf8;
+    color: #c9184a;
+    border-bottom: 6px solid #d8cefe;
+    border-radius:5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:0 auto;
+    padding:20px;
+    display:felx;
+    justify-content: space-around;
+
+}
